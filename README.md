@@ -1,4 +1,4 @@
-# Olá! Eu sou Gabriel Conforti 👋
+# Olá! Eu sou Gabriel Conforti
 
 🎓 Estudante de **Engenharia Eletrônica na Universidade Federal de Pernambuco (UFPE)**.
 
@@ -69,4 +69,3 @@ Atualmente, meu foco está no desenvolvimento da base técnica em **Engenharia E
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-conforti-b5b774235/)
-- 🐙 [GitHub](https://github.com/c0nforti)
